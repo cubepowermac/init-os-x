@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RequiredFiles</key>
+	<array>
+		<string>bin/Setup.sh</string>
+		<string>bin/Terminal.sh</string>
+		<string>bin/hosts.sh</string>
+		<string>bin/print.sh</string>
+		<string>etc/Info.plist</string>
+		<string>include/Boshiamy-X1-r360.dmg</string>
+		<string>include/Salander.terminal</string>
+		<string>include/Sparrow.tgz</string>
+	</array>
+	<key>SetRootPassword</key>
+	<true/>
+	<key>SetUserPicture</key>
+	<true/>
+	<key>InstallSparrow</key>
+	<true/>
+</dict>
+</plist>
